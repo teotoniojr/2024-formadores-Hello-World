@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Kode+Mono&family=Quicksand&display=swap');
+
+h2{
+    color:#8d99ae;
+}
+
+body{
+    background-color: #2b2d42;
+    color: #edf2f4;
+    font-family: "Kode Mono", monospace;;
+    text-align: center;
+}
+
+header{
+    border-bottom: 4px solid #8d99ae;
+    font-family: "Kalnia", serif;
+}
+
+footer{
+    border-top: 4px solid #8d99ae;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
